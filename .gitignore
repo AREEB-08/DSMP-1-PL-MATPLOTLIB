@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+.idea/
+*.log
+DATASETS/IPL_Ball_by_Ball_2008_2022.csv
+models/
